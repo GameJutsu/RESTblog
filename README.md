@@ -8,9 +8,9 @@ A blog app using nodeJS, mongoDB and RESTful routing
 
 ## Built With
 
-* [NodeJS](https://nodejs.org/) - NodeJS
-* [Semantic-UI](https://semantic-ui.com/) - Semantic-UI
-* [MongoDB](https://www.mongodb.com/) - MongoDB
+* [NodeJS](https://nodejs.org/)
+* [Semantic-UI](https://semantic-ui.com/)
+* [MongoDB](https://www.mongodb.com/)
 
 
 ## Authors
