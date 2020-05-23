@@ -2,10 +2,6 @@
 
 A blog app using nodeJS, mongoDB and RESTful routing
 
-## Demo
-
-[REST Blog](#)
-
 ## Built With
 
 * [NodeJS](https://nodejs.org/)
